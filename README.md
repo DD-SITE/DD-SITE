@@ -71,7 +71,7 @@ Check out my repos [here](https://github.com/DD-SITE)!
 ---
 
 ## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/divyam-dixit-16a2972a0) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyam-dixit-16a2972a0)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=google-chrome&logoColor=white)](https://divyamdixit.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:divyamdixit1872@gmail.com)
 
