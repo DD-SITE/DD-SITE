@@ -66,7 +66,7 @@
 
 ## 🚀 Projects & Work  
   
-Check out my repos [here](https://github.com/DD-SITE)!
+Check out my repos [here](https://github.com/DD-SITE?tab=repositories)!
 
 ---
 
