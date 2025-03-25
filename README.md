@@ -77,7 +77,7 @@ Check out my repos [here](https://github.com/DD-SITE)!
 
 ---
 
-⭐ **Fun Fact:** I love exploring **anime, flims and series!**  
+⭐ **Fun Fact:** I love exploring **anime, flims, series and sports!**  
  **Always open to collaborations & new opportunities!**
 
 
